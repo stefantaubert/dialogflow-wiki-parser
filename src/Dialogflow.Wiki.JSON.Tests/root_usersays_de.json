@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": "a75cc93e-9323-4444-a592-181dd8972f90",
+    "data": [
+      {
+        "text": "Frage1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527613729
+  },
+  {
+    "id": "c0ec5b60-9323-4444-a592-181dd8972f90",
+    "data": [
+      {
+        "text": "Frage2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527613729
+  }
+]

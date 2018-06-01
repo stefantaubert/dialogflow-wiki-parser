@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialogflow.Wiki.Core.Test", "Dialogflow.Wiki.Core.Test\Dialogflow.Wiki.Core.Test.csproj", "{D8378F09-9C1B-4CB5-898B-7C6EC77ABB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialogflow.Wiki.Core", "Dialogflow.Wiki.Core\Dialogflow.Wiki.Core.csproj", "{21A68818-1757-4827-B09B-CF9F308CB2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialogflow.Wiki.JSON", "Dialogflow.Wiki.JSON\Dialogflow.Wiki.JSON.csproj", "{79EA120C-56AC-48F7-B37C-BB55119A1DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialogflow.Wiki.JSON.Tests", "Dialogflow.Wiki.JSON.Tests\Dialogflow.Wiki.JSON.Tests.csproj", "{926603C7-1403-4BF7-8B76-08C01346B905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dialogflow.Wiki.Gui", "Dialogflow.Wiki.Gui\Dialogflow.Wiki.Gui.csproj", "{A9B4BA91-8479-4598-BCA4-D61E2C2BB73F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8378F09-9C1B-4CB5-898B-7C6EC77ABB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8378F09-9C1B-4CB5-898B-7C6EC77ABB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8378F09-9C1B-4CB5-898B-7C6EC77ABB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8378F09-9C1B-4CB5-898B-7C6EC77ABB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A68818-1757-4827-B09B-CF9F308CB2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A68818-1757-4827-B09B-CF9F308CB2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A68818-1757-4827-B09B-CF9F308CB2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A68818-1757-4827-B09B-CF9F308CB2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EA120C-56AC-48F7-B37C-BB55119A1DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EA120C-56AC-48F7-B37C-BB55119A1DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EA120C-56AC-48F7-B37C-BB55119A1DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EA120C-56AC-48F7-B37C-BB55119A1DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926603C7-1403-4BF7-8B76-08C01346B905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926603C7-1403-4BF7-8B76-08C01346B905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926603C7-1403-4BF7-8B76-08C01346B905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926603C7-1403-4BF7-8B76-08C01346B905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B4BA91-8479-4598-BCA4-D61E2C2BB73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B4BA91-8479-4598-BCA4-D61E2C2BB73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B4BA91-8479-4598-BCA4-D61E2C2BB73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B4BA91-8479-4598-BCA4-D61E2C2BB73F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD89CF8-51ED-4609-848E-BF3A76D35338}
+	EndGlobalSection
+EndGlobal
